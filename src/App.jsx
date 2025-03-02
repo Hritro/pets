@@ -2,7 +2,7 @@ import './App.css'
 import Banner from './components/Banner'
 import BrowseByCat from './components/BrowseByCat'
 import EverydayLowPrice from './components/EverydayLowPrice'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 import NavBar from './components/NavBar'
 
 import Tranding from './components/Trandind'
